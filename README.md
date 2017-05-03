@@ -39,3 +39,8 @@
 - What, if anything, would make your users want to use this product frequently?
 - How likely or unlikely would they be to recommend the finished product to a friend?
 - How would they describe this product using their own words?
+
+## Tasks
+
+- How do you do x? (Look for struggling)
+- How difficult was it to do x?

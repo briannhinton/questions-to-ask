@@ -2,7 +2,7 @@
 
 ## Questions to ask yourself
 
-When starting a project the understanding phase of a project is the most important. A new product is a problem to be solved. As a design we must multiple our research and understanding of the various spokes of a product to come up with the necessary solutions. Research should be the driving force behind all UX and UI descisions. Below are a few questions you can ask yourself, and others at the start of a project to help think through the various problems, and therefore discover possible solutions.
+When starting a project the understanding phase of a project is the most important. A new product is a problem to be solved. As a design we must multiple our research and understanding of the various spokes of a product to come up with the necessary solutions. Research should be the driving force behind all UX and UI decisions. Below are a few questions you can ask yourself, and others at the start of a project to help think through the various problems, and therefore discover possible solutions.
 
 - What are the business goals of the product?
 - Who will be using the product?
